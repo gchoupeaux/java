@@ -1,0 +1,16 @@
+# create file 
+touch file_name.txt
+# or
+> filename.txt
+
+#interpreter
+java -version
+
+# compileur
+javac -version
+
+#compile
+javac HelloWorld.java
+
+#run path to the class without '.class' need to be in the same folder 
+java HelloWorld
